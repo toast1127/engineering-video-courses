@@ -88,6 +88,7 @@ tawkaw OpenCourseWare](https://www.youtube.com/playlist?list=PLrwuNGSwGLHdsvVdsP
   - [Dr. Furse's University of Utah ECE3300, Electromagnetics](https://www.youtube.com/playlist?list=PLF644C08887BE0EA6)
   - [6.262 Discrete Stochastic Processes - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
   - [6.780J Control of Manufacturing Processes - MIT OCW](https://ocw.mit.edu/courses/mechanical-engineering/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/lecture-videos)
+  - [ECE 221 Electric and Magnetic Fields - UofT](https://www.youtube.com/playlist?list=PLluf7eor18de3V8Miv37m_TtWBQCV90t6)
 
 
 ----------------------------------------------------------------------------------------
